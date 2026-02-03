@@ -19,6 +19,9 @@ Electrical Engineer with background in professional audio, acoustics, and engine
 - **ft_printf** — printf reimplementation (variadic functions, formatting)  
   https://github.com/TheForestGiraffe/ft_printf
 
+- **push_swap** — Algorithmic sorting under strict operational constraints
+  https://github.com/TheForestGiraffe/push_swap
+
 Additional projects related to the 42 curriculum, exams, and exercises are available in this profile.
 
 ## Development Approach
