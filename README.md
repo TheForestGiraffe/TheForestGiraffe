@@ -10,9 +10,6 @@ Electrical Engineer with background in professional audio, acoustics, and engine
 - **fdf** — 3D wireframe renderer (manual projection, transformations, rasterization)  
   https://github.com/TheForestGiraffe/fdf
 
-- **philosophers** — Multithreaded simulation using pthreads (deadlock, timing)  
-  https://github.com/TheForestGiraffe/philosophers
-
 - **minitalk** — Inter-process communication via Unix signals (signal and sigaction APIs)  
   https://github.com/TheForestGiraffe/minitalk
 
