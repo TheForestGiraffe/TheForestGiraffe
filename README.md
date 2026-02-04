@@ -3,6 +3,12 @@
 Electrical Engineer with background in professional audio, acoustics, and engineering software, building strong C/Linux systems skills and expanding into C++ at 42 Berlin.
 
 Electrical & Audio Systems Engineer | C/Linux Development & QA | Technical Product Management | Application & Support | Measurement & Simulation | Lead EASE Service & Training
+
+💻 Languages: C, Bash/Shell, MATLAB and Java (Academic), HTML, CSS
+🛠 Tools: Git, Make, Valgrind, AddressSanitizer, GDB, Linux, MiniLibX
+🎨 Frameworks: Bootstrap
+🚀 Expanding Into: C++, Docker, Networking, Advanced Linux, System Design, Real-Time Audio Processing
+
 ## Selected Projects
 
 - **42 Learning Journey** — Overview of my progression through the 42 Berlin curriculum (Piscine → Core Projects → Systems & Concurrency)  
