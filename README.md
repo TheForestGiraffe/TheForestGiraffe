@@ -19,9 +19,6 @@ Electrical Engineer with background in professional audio, acoustics, and engine
 - **libft** — Custom C standard library and utilities  
   https://github.com/TheForestGiraffe/libft
 
-- **ft_printf** — printf reimplementation (variadic functions, formatting)  
-  https://github.com/TheForestGiraffe/ft_printf
-
 - **push_swap** — Algorithmic sorting under strict operational constraints  
   https://github.com/TheForestGiraffe/push_swap
 
