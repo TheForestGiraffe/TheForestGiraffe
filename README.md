@@ -2,8 +2,7 @@
 
 Electrical Engineer with background in professional audio, acoustics, and engineering software, building strong C/Linux systems skills and expanding into C++ at 42 Berlin.
 
-Electrical Engineer | C/Linux Systems Developer | 42 Berlin | Building Reliable Low-Level Software
-
+Electrical & Audio Systems Engineer | C/Linux Development & QA | Technical Product Management | Application & Support | Measurement & Simulation | Lead EASE Service & Training
 ## Selected Projects
 
 - **42 Learning Journey** — Overview of my progression through the 42 Berlin curriculum (Piscine → Core Projects → Systems & Concurrency)  
