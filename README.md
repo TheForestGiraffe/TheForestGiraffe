@@ -6,7 +6,7 @@ Electrical & Audio Systems Engineer | C/Linux Development & QA | Technical Produ
 
 💻 Languages: C, Bash/Shell, MATLAB and Java (Academic), HTML, CSS  
 🛠 Tools: Git, Make, Valgrind, AddressSanitizer, GDB, Linux, MiniLibX  
-🎨 Frameworks: Bootstrap 
+🎨 Frameworks: Bootstrap  
 🚀 Expanding Into: C++, Docker, Networking, Advanced Linux, System Design, Real-Time Audio Processing
 
 ## Selected Projects
