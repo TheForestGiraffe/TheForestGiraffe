@@ -21,14 +21,14 @@ Electrical & Audio Systems Engineer | C/Linux Development & QA | Technical Produ
 - **fdf** — 3D wireframe renderer (manual projection, transformations, rasterization)  
   https://github.com/TheForestGiraffe/fdf
 
+- **philosophers** — Multithreaded simulation using pthreads (deadlock, timing)  
+  https://github.com/TheForestGiraffe/Philosophers
+
 - **minitalk** — Inter-process communication via Unix signals (signal and sigaction APIs)  
   https://github.com/TheForestGiraffe/minitalk
 
 - **libft** — Custom C standard library and utilities  
   https://github.com/TheForestGiraffe/libft
-
-- **push_swap** — Algorithmic sorting under strict operational constraints  
-  https://github.com/TheForestGiraffe/push_swap
 
 Additional projects related to the 42 curriculum, exams, and exercises are available in this profile.
 
