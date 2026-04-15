@@ -1,6 +1,6 @@
 # Pedro Lima
 
-Electrical Engineer with background in professional audio, acoustics, and engineering software, building strong C/Linux systems skills and expanding into C++ at 42 Berlin.
+Electrical Engineer with background in professional audio, acoustics, and engineering software, building strong C/Linux systems skills and expanding into C++ at 42 Berlin (Rank 5 of 7).
 
 Electrical & Audio Systems Engineer | C/Linux Development & QA | Technical Product Management | Application & Support | Measurement & Simulation | Lead EASE Service & Training
 
