@@ -21,6 +21,8 @@ Electrical & Audio Systems Engineer | C/Linux Development & QA | Technical Produ
 - **fdf** — 3D wireframe renderer (manual projection, transformations, rasterization)  
   https://github.com/TheForestGiraffe/fdf
 
+- **cub3D** - Raycasting-based 3D game engine written in C, inspired by the original Wolfenstein 3D.
+
 - **philosophers** — Multithreaded simulation using pthreads (deadlock, timing)  
   https://github.com/TheForestGiraffe/Philosophers
 
@@ -30,7 +32,7 @@ Electrical & Audio Systems Engineer | C/Linux Development & QA | Technical Produ
 - **libft** — Custom C standard library and utilities  
   https://github.com/TheForestGiraffe/libft
 
-Additional projects related to the 42 curriculum, exams, and exercises are available in this profile.
+Additional projects related to the 42 curriculum, a live-code exam sample, and exercises are available in this profile.
 
 ## Development Approach
 
