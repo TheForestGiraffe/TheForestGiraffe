@@ -22,6 +22,7 @@ Electrical & Audio Systems Engineer | C/Linux Development & QA | Technical Produ
   https://github.com/TheForestGiraffe/fdf
 
 - **cub3D** - Raycasting-based 3D game engine written in C, inspired by the original Wolfenstein 3D.
+  https://github.com/TheForestGiraffe/cub3D
 
 - **philosophers** — Multithreaded simulation using pthreads (deadlock, timing)  
   https://github.com/TheForestGiraffe/Philosophers
