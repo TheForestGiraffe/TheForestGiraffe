@@ -12,8 +12,8 @@ Electrical & Audio Systems Engineer | C/Linux Development & QA | Technical Produ
 
 ## Selected Projects
 
-- **42 Learning Journey** — Overview of my progression through the 42 Berlin curriculum (Piscine → Core Projects → Systems & Concurrency)  
-  https://github.com/TheForestGiraffe/42-journey
+- **cub3D** - Raycasting-based 3D game engine written in C, inspired by the original Wolfenstein 3D.
+  https://github.com/TheForestGiraffe/cub3D
 
 - **minishell** — Unix-like shell in C (processes, pipes, redirects, env, signals)  
   https://github.com/TheForestGiraffe/minishell
@@ -21,8 +21,8 @@ Electrical & Audio Systems Engineer | C/Linux Development & QA | Technical Produ
 - **fdf** — 3D wireframe renderer (manual projection, transformations, rasterization)  
   https://github.com/TheForestGiraffe/fdf
 
-- **cub3D** - Raycasting-based 3D game engine written in C, inspired by the original Wolfenstein 3D.
-  https://github.com/TheForestGiraffe/cub3D
+- **42 Learning Journey** — Overview of my progression through the 42 Berlin curriculum (Piscine → Core Projects → Systems & Concurrency)  
+  https://github.com/TheForestGiraffe/42-journey
 
 - **philosophers** — Multithreaded simulation using pthreads (deadlock, timing)  
   https://github.com/TheForestGiraffe/Philosophers
