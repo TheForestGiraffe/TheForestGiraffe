@@ -30,9 +30,15 @@ Electrical & Audio Systems Engineer | C/Linux Development & QA | Technical Produ
 - **libft** — Custom C standard library and utilities  
   https://github.com/TheForestGiraffe/libft
 
-**42 Learning Journey**  
+## 42 Learning Journey
+
 Overview of my progression through the 42 Berlin curriculum (Piscine → Core Projects → Systems & Concurrency):  
 https://github.com/TheForestGiraffe/42-journey
+
+42 is project-based software engineering specialization focused on low-level C, systems-oriented and object-oriented C++, and Unix/Linux development.
+Its core curriculum (pre 2026) includes: algorithms, data structures, concurrency, networking, debugging, development tooling, containerized environments (Docker), and regular use of Bash and Git.
+
+For additional information about 42, please visit https://42berlin.de/.
 
 ## Development Approach
 
@@ -43,14 +49,6 @@ https://github.com/TheForestGiraffe/42-journey
 - Systematic debugging with GDB and Valgrind
 - Implementation aligned with industry best practices
 - Clear and structured commit messages to support collaboration
-
-## About 42 Berlin
-
-Project-based software engineering program focused on low-level C, systems-oriented and object-oriented C++, and Unix/Linux development.
-
-Practical experience in algorithms, data structures, concurrency, networking, debugging, development tooling, containerized environments (Docker), and regular use of Bash and Git.
-
-Curriculum details: https://42berlin.de/curriculum-42-berlin-pre-2026/
 
 ## Contact
 
