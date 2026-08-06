@@ -38,16 +38,6 @@ Its core curriculum (pre 2026) includes: algorithms, data structures, concurrenc
 
 For additional information about 42, please visit https://42berlin.de/.
 
-## Development Approach
-
-- Modular and well-structured design with clear separation of responsibilities and attention to long-term maintainability
-- Disciplined memory management with explicit ownership, lifetime control, and systematic cleanup
-- Careful header management (minimal includes, no catch-all headers)
-- Consistent coding style and formatting
-- Systematic debugging with GDB and Valgrind
-- Implementation aligned with industry best practices
-- Clear and structured commit messages to support collaboration
-
 ## Contact
 
 LinkedIn: https://linkedin.com/in/pedro-lima-345649143
