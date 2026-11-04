@@ -1,12 +1,12 @@
 # Pedro Lima
 
-Electrical Engineer with background in professional audio, acoustics, and engineering software, building strong C/Linux systems skills and expanding into C++ at 42 Berlin (Rank 6 of 7).
+Electrical Engineer with background in professional audio, acoustics, and engineering software, building strong C/Linux systems skills and C++ at 42 Berlin (Rank 6 of 7).
 
-💻 Core Languages: C, Bash/Shell, MATLAB and Java (Academic)  
+💻 Core Languages: C/C++, Bash/Shell, MATLAB and Java (Academic)  
 🛠 Systems & Dev Tools: Git, Make, Valgrind, AddressSanitizer, GDB, Linux, MiniLibX  
 🧪 Testing & QA: FitNesse (Automated Acceptance Testing)  
 🎨 UI / UX & Prototyping (Supporting): HTML, CSS, Bootstrap, Adobe XD  
-🚀 Currently Expanding Into: C++, Docker, Networking, Advanced Linux, System Design, Real-Time Audio Processing
+🚀 Currently Further Expanding: C++, Docker, Networking, Advanced Linux, System Design, Real-Time Audio Processing
 
 ## Selected Projects
 
