@@ -5,10 +5,10 @@ Electrical & Software Engineer. 15+ years working in acoustics and professional 
 My work at AFMG was on the product side: software testing, technical support, trainings, and a supporting role in the product management of EASE 5 (2020 – 2023). There I had a central role in the Early Adopter Program and contributed to collecting customer requests, prioritising and specifying features, coordinating releases with development, support and marketing, and evaluating prototype implementations. I also took central tasks in the EASE 5 launches (First Edition 2022, Second Edition 2023). Details on [LinkedIn](https://linkedin.com/in/pedro-lima-345649143). Board member of the Audio Developer Meetup Berlin.
 
 💻 Core Languages: C, C++, Bash, MATLAB and Java (academic)  
-🛠 Systems & Dev Tools: Git, Make, GDB, Valgrind, AddressSanitizer, Linux, MiniLibX  
+🛠 Systems & Dev Tools: Git, Make, GDB, Valgrind, AddressSanitizer, Linux, MiniLibX, VIM, VS Code  
 🧪 Testing & QA: FitNesse (automated acceptance tests), unit tests and CI with GitHub Actions (cub3D)  
-🤖 AI-First Development: in addition to hand-written code, prototyping and efficient coding with AI tools and agents (see RoadOne below)  
-🎨 UI / UX & Prototyping (supporting): HTML, CSS, Bootstrap, Adobe XD  
+🤖 AI-First Development: in addition to hand-written code, prototyping and efficient coding with AI tools and agents (see RoadOne below), such as Emdash (agentic development environment - https://emdash.com/classic)
+🎨 UI / UX & Prototyping (supporting): HTML, CSS, Bootstrap, Adobe XD
 🚀 Now: C++ and network programming (Webserv). Next: Docker, real-time audio processing
 
 ## Selected Projects
