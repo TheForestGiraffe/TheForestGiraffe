@@ -7,7 +7,7 @@ My work at AFMG was on the product side: software testing, technical support, tr
 💻 Core Languages: C, C++, Bash, MATLAB and Java (academic)  
 🛠 Systems & Dev Tools: Git, Make, GDB, Valgrind, AddressSanitizer, Linux, MiniLibX, VIM, VS Code  
 🧪 Testing & QA: FitNesse (automated acceptance tests), unit tests and CI with GitHub Actions (cub3D)  
-🤖 AI-First Development: in addition to hand-written code, prototyping and efficient coding with AI tools and agents (see RoadOne below), such as Emdash (agentic development environment - https://emdash.com/classic)
+🤖 AI-First Development: in addition to hand-written code, prototyping and efficient coding with AI tools and agents (see RoadOne below), such as Emdash (agentic development environment - https://emdash.com/classic)  
 🎨 UI / UX & Prototyping (supporting): HTML, CSS, Bootstrap, Adobe XD
 🚀 Now: C++ and network programming (Webserv). Next: Docker, real-time audio processing
 
